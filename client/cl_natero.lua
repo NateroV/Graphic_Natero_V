@@ -1,6 +1,6 @@
 print("^0======================================================================^7")
 print("^0[^4Author^0] ^7:^0 ^0Natero V^7")
-print("^0[^5Discord^0] ^5N A T E R O#7023^5")
+print("^0[^5Discord^0] ^5Natero V#8665^5")
 print("^0[^6GITHUB^0] ^6https://github.com/NateroV^5")
 print("^0[^3Version^0] ^7:^0 ^01.0.0^7")
 print("^0[^1WARNING^0] ^1DO NOT REUPLOAD WITHOUT MY PERMISSION^1")
